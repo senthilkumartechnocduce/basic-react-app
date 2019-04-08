@@ -1,0 +1,35 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "cookie": "^0.3.1",
+    "flux-constant": "^1.1.4",
+    "object-assign": "^4.1.1",
+    "qs": "^6.7.0",
+    "react": "^16.8.1",
+    "react-content-loader": "^4.2.1",
+    "react-dom": "^16.8.1",
+    "react-helmet": "^5.2.0",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.4",
+    "redux": "^4.0.1",
+    "xhr": "^2.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
